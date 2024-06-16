@@ -20,11 +20,11 @@
   </template>
   
   <script setup lang="ts">
-  import { ref } from 'vue';
-  
-  const isMenuOpen = ref<boolean>(false)
-  
-  const openMenu = (action: boolean) => {
-    isMenuOpen.value = action;
-  }
-  </script>
+import { ref } from 'vue'
+
+const isMenuOpen = ref<boolean>(false)
+
+const openMenu = (action: boolean) => {
+  isMenuOpen.value = action
+}
+</script>

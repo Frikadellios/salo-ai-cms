@@ -9,5 +9,5 @@
 </template>
 
 <script setup lang="ts">
-const food = ["Pizza", "French fries", "Spaghetti"];
+const food = ['Pizza', 'French fries', 'Spaghetti']
 </script>

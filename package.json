@@ -7,10 +7,12 @@
   "author": "Hrihorii Ilin <devopsick@pm.me>",
   "description": "To install dependencies",
   "scripts": {
+    "editorconfig": "editorconfig-checker -exclude \"**/node_modules/**\"",
     "dev": "astro check --verbose && astro dev --verbose",
     "start": "astro dev",
     "build": "astro check --verbose && astro build --verbose",
     "preview": "astro preview",
+    "biomes": "npx @biomejs/biome check --write .",
     "astro": "astro"
   },
   "dependencies": {
@@ -32,17 +34,22 @@
     "clsx": "^2.1.1",
     "node-appwrite": "^13.0.0",
     "postcss": "^8.4.38",
+    "prettier": "^3.3.2",
+    "prettier-config-standard": "^7.0.0",
+    "prettier-plugin-astro": "^0.14.0",
     "radix-vue": "^1.8.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwind-merge": "^2.3.0",
     "tailwindcss": "^4.0.0-alpha.16",
-    "tailwindcss-animate": "^1.0.7",
     "vue": "^3.4.29",
     "vue-tsc": "^2.0.21"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.8.1",
     "@types/bun": "latest",
+    "editorconfig-checker": "^5.1.8",
+    "prettier-plugin-tailwindcss": "^0.6.4",
     "typescript": "^5.4.5"
   },
   "repository": {

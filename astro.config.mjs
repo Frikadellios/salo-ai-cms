@@ -1,17 +1,17 @@
-import { defineConfig } from 'astro/config';
-import node from "@astrojs/node";
-import Vue from "@astrojs/vue";
-import react from "@astrojs/react";
+import node from '@astrojs/node'
+import react from '@astrojs/react'
+import Vue from '@astrojs/vue'
 import tailwindcss from '@tailwindcss/vite'
+import { defineConfig } from 'astro/config'
 
 // https://astro.build/config
 export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  output: "hybrid",
+  output: 'hybrid',
   adapter: node({
-    mode: "standalone"
+    mode: 'standalone',
   }),
-  integrations: [react(), Vue({ jsx: true, devtools: true })]
-});
+  integrations: [react(), Vue({ jsx: true, devtools: true })],
+})

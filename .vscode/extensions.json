@@ -6,7 +6,8 @@
     "bradlc.vscode-tailwindcss",
     "unifiedjs.vscode-mdx",
     "davidanson.vscode-markdownlint",
-    "oven.bun-vscode"
+    "oven.bun-vscode",
+    "biomejs.biome"
   ],
   "unwantedRecommendations": []
 }
