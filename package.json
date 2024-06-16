@@ -1,0 +1,56 @@
+{
+  "name": "salo-ai-cms",
+  "type": "module",
+  "version": "1.0.1",
+  "license": "Apache-2.0",
+  "keywords": [],
+  "author": "Hrihorii Ilin <devopsick@pm.me>",
+  "description": "To install dependencies",
+  "scripts": {
+    "dev": "astro check --verbose && astro dev --verbose",
+    "start": "astro dev",
+    "build": "astro check --verbose && astro build --verbose",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.7.0",
+    "@astrojs/node": "^8.3.0",
+    "@astrojs/react": "^3.5.0",
+    "@astrojs/ts-plugin": "^1.8.0",
+    "@astrojs/vue": "^4.4.0",
+    "@radix-icons/vue": "^1.0.0",
+    "@tailwindcss/postcss": "^4.0.0-alpha.16",
+    "@tailwindcss/vite": "^4.0.0-alpha.16",
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vueuse/core": "^10.11.0",
+    "astro": "^4.10.2",
+    "autoprefixer": "^10.4.19",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "node-appwrite": "^13.0.0",
+    "postcss": "^8.4.38",
+    "radix-vue": "^1.8.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss": "^4.0.0-alpha.16",
+    "tailwindcss-animate": "^1.0.7",
+    "vue": "^3.4.29",
+    "vue-tsc": "^2.0.21"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frikadellios/salo-ai-cms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Frikadellios/salo-ai-cms/issues"
+  },
+  "homepage": "https://github.com/Frikadellios/salo-ai-cms#readme"
+}
