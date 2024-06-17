@@ -6,10 +6,16 @@
         "name": "@astrojs/ts-plugin"
       }
     ],
-    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "lib": [
+      "ESNext",
+      "DOM",
+      "DOM.Iterable"
+    ],
     "target": "ESNext",
     "module": "ESNext",
     "moduleDetection": "force",
+    "outDir": "dist",
+    "strictNullChecks": true,
     "jsx": "preserve",
     "allowJs": true,
     "moduleResolution": "bundler",
@@ -25,8 +31,13 @@
     "jsxImportSource": "react",
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": [
+        "./src/*"
+      ]
     }
   },
-  "exclude": ["dist", "node_modules"]
+  "exclude": [
+    "dist",
+    "node_modules"
+  ]
 }
