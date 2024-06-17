@@ -7,7 +7,9 @@
     "unifiedjs.vscode-mdx",
     "davidanson.vscode-markdownlint",
     "oven.bun-vscode",
-    "biomejs.biome"
+    "biomejs.biome",
+    "streamlux.vscode-appwrite",
+    "duodevs.appwrite-snippets"
   ],
   "unwantedRecommendations": []
 }
