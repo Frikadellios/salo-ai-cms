@@ -22,7 +22,7 @@
       "plugins": [
         {
           "name": "vite:resolve (+alias)",
-          "resolveId": 4
+          "resolveId": 3
         }
       ],
       "virtual": true,
@@ -37,7 +37,7 @@
       "plugins": [
         {
           "name": "vite:resolve (+alias)",
-          "resolveId": 5
+          "resolveId": 46
         }
       ],
       "virtual": true,
@@ -52,7 +52,7 @@
       "plugins": [
         {
           "name": "vite:resolve (+alias)",
-          "resolveId": 4
+          "resolveId": 196
         }
       ],
       "virtual": true,
@@ -97,7 +97,7 @@
       "plugins": [
         {
           "name": "vite:resolve (+alias)",
-          "resolveId": 5
+          "resolveId": 4
         }
       ],
       "virtual": true,
@@ -112,7 +112,7 @@
       "plugins": [
         {
           "name": "vite:resolve (+alias)",
-          "resolveId": 3
+          "resolveId": 2
         }
       ],
       "virtual": true,

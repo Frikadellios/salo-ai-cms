@@ -1,6 +1,6 @@
+import { SESSION_COOKIE, createAdminClient } from '@/server/appwrite'
 import type { APIRoute } from 'astro'
 import { OAuthProvider } from 'node-appwrite'
-import { SESSION_COOKIE, createAdminClient } from '../server/appwrite'
 
 export const POST: APIRoute = async ({ redirect, url }) => {
   const { account } = createAdminClient()
@@ -17,6 +17,9 @@ export const POST: APIRoute = async ({ redirect, url }) => {
 export const GET: APIRoute = async ({ cookies, redirect, url }) => {
   const userId = url.searchParams.get('userId')
   const secret = url.searchParams.get('secret')
+
+  // Add logging to debug the issue
+  console.log('OAuth2 Callback:', { userId, secret })
 
   if (!userId || !secret) {
     throw new Error('OAuth2 did not provide userId or secret')

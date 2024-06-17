@@ -1,28 +1,37 @@
-import node from '@astrojs/node';
-import react from '@astrojs/react';
-import Vue from '@astrojs/vue';
-import tailwindcss from '@tailwindcss/vite';
-import Inspect from 'vite-plugin-inspect';
-import { defineConfig } from 'astro/config';
-import partytown from "@astrojs/partytown";
-import sitemap from "@astrojs/sitemap";
+import node from '@astrojs/node'
+import partytown from '@astrojs/partytown'
+import react from '@astrojs/react'
+import sitemap from '@astrojs/sitemap'
+import Vue from '@astrojs/vue'
+import tailwindcss from '@tailwindcss/vite'
+import { defineConfig } from 'astro/config'
+import Inspect from 'vite-plugin-inspect'
 
-import mdx from "@astrojs/mdx";
+import mdx from '@astrojs/mdx'
 
 // https://astro.build/config
 export default defineConfig({
   vite: {
-    plugins: [Inspect({
-      build: true,
-      outputDir: '.vite-inspect'
-    }), tailwindcss()]
+    plugins: [
+      Inspect({
+        build: true,
+        outputDir: '.vite-inspect',
+      }),
+      tailwindcss(),
+    ],
   },
-  output: 'hybrid',
+  output: 'server',
   adapter: node({
-    mode: 'standalone'
+    mode: 'standalone',
   }),
-  integrations: [react(), Vue({
-    jsx: true,
-    devtools: true
-  }), partytown(), sitemap(), mdx()]
-});
+  integrations: [
+    react(),
+    Vue({
+      jsx: true,
+      devtools: true,
+    }),
+    partytown(),
+    sitemap(),
+    mdx(),
+  ],
+})

@@ -19,6 +19,17 @@
       "invokeCount": 0,
       "totalTime": 0
     },
+    "name": "@astrojs/mdx-postprocess"
+  },
+  {
+    "transform": {
+      "invokeCount": 0,
+      "totalTime": 0
+    },
+    "resolveId": {
+      "invokeCount": 0,
+      "totalTime": 0
+    },
     "name": "@astrojs/react:opts"
   },
   {
@@ -43,6 +54,18 @@
       "totalTime": 0
     },
     "name": "@astrojs/vue/virtual-app"
+  },
+  {
+    "transform": {
+      "invokeCount": 0,
+      "totalTime": 0
+    },
+    "resolveId": {
+      "invokeCount": 0,
+      "totalTime": 0
+    },
+    "name": "@mdx-js/rollup",
+    "enforce": "pre"
   },
   {
     "transform": {
