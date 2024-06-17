@@ -10,7 +10,7 @@
     "editorconfig": "editorconfig-checker -exclude \"**/node_modules/**\"",
     "dev": "bun astro check --verbose && bunx --bun astro dev --verbose",
     "start": "astro dev",
-    "build": "astro check --verbose && astro build --verbose",
+    "build": "bun astro check --verbose && bunx --bun astro build --verbose",
     "preview": "astro preview",
     "biomes": "npx @biomejs/biome check --write .",
     "astro": "astro"
