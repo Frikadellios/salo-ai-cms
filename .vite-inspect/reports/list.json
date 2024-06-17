@@ -1,13 +1,571 @@
 {
-  "root": "C:/Users/frika/OneDrive/Документы/GitHub/salo-ai-cms",
+  "root": "/workspaces/salo-ai-cms",
   "modules": [
     {
-      "id": "C:/Users/frika/OneDrive/Документы/GitHub/salo-ai-cms/node_modules/@astrojs/react/client.js",
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/react-dom/cjs/react-dom.production.min.js?commonjs-exports",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 79,
+      "distSize": 79
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/react-dom/cjs/react-dom.production.min.js?commonjs-proxy",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 124,
+      "distSize": 124
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/react-dom/client.js?commonjs-exports",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 45,
+      "distSize": 45
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/react-dom/index.js?commonjs-module",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 59,
+      "distSize": 59
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/react-dom/index.js?commonjs-proxy",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 101,
+      "distSize": 101
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/react/cjs/react.production.min.js?commonjs-exports",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 73,
+      "distSize": 73
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/react/cjs/react.production.min.js?commonjs-proxy",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 116,
+      "distSize": 116
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/react/index.js?commonjs-module",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 53,
+      "distSize": 53
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/react/index.js?commonjs-proxy",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 97,
+      "distSize": 97
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/scheduler/cjs/scheduler.production.min.js?commonjs-exports",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 81,
+      "distSize": 81
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/scheduler/cjs/scheduler.production.min.js?commonjs-proxy",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 124,
+      "distSize": 124
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/scheduler/index.js?commonjs-module",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 61,
+      "distSize": 61
+    },
+    {
+      "id": "\u0000/workspaces/salo-ai-cms/node_modules/scheduler/index.js?commonjs-proxy",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 101,
+      "distSize": 101
+    },
+    {
+      "id": "\u0000astro-entry:@/components/draggable.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-component-entry",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 52,
+      "distSize": 52
+    },
+    {
+      "id": "\u0000astro-entry:@/components/navigation.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-component-entry",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 53,
+      "distSize": 53
+    },
+    {
+      "id": "\u0000commonjsHelpers.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "commonjs",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 1294,
+      "distSize": 1294
+    },
+    {
+      "id": "\u0000plugin-vue:export-helper",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 3,
+      "sourceSize": 155,
+      "distSize": 155
+    },
+    {
+      "id": "\u0000virtual:@astrojs/vue/app",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astrojs/vue/virtual-app",
+          "transform": 0
+        },
+        {
+          "name": "@astrojs/vue/virtual-app",
+          "resolveId": 0
+        },
+        {
+          "name": "@astrojs/vue/virtual-app",
+          "resolveId": 0
+        },
+        {
+          "name": "@astrojs/vue/virtual-app",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 3,
+      "sourceSize": 30,
+      "distSize": 30
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/react/client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 8
+        },
+        {
+          "name": "vite:resolve (+alias)",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 8,
+      "invokeCount": 1,
+      "sourceSize": 3311,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/react/static-html.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 22
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 22,
+      "invokeCount": 1,
+      "sourceSize": 884,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/vue/client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 15
+        },
+        {
+          "name": "vite:resolve (+alias)",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 15,
+      "invokeCount": 1,
+      "sourceSize": 1278,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/vue/static-html.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 21
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 21,
+      "invokeCount": 1,
+      "sourceSize": 858,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 29
+        },
+        {
+          "name": "vite:define",
+          "transform": 11
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 40,
+      "invokeCount": 1,
+      "sourceSize": 35475,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 89
+        },
+        {
+          "name": "vite:define",
+          "transform": 103
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 192,
+      "invokeCount": 1,
+      "sourceSize": 253078,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 40
+        },
+        {
+          "name": "vite:define",
+          "transform": 164
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 204,
+      "invokeCount": 1,
+      "sourceSize": 50344,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@vue/shared/dist/shared.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 97
+        },
+        {
+          "name": "vite:define",
+          "transform": 97
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 194,
+      "invokeCount": 1,
+      "sourceSize": 21076,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@vueuse/core/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 15
+        },
+        {
+          "name": "vite:define",
+          "transform": 219
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 234,
+      "invokeCount": 1,
+      "sourceSize": 217006,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@vueuse/core/node_modules/vue-demi/lib/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 17
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 17,
+      "invokeCount": 1,
+      "sourceSize": 524,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@vueuse/shared/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 14
+        },
+        {
+          "name": "vite:define",
+          "transform": 95
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 109,
+      "invokeCount": 1,
+      "sourceSize": 42769,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@vueuse/shared/node_modules/vue-demi/lib/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 166
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 166,
+      "invokeCount": 1,
+      "sourceSize": 524,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/aria-query/lib/index.js",
       "deps": [],
       "plugins": [
         {
           "name": "vite:resolve (+alias)",
-          "resolveId": 27
+          "resolveId": 0
         }
       ],
       "virtual": true,
@@ -17,10 +575,11 @@
       "distSize": 0
     },
     {
-      "id": "C:/Users/frika/OneDrive/Документы/GitHub/salo-ai-cms/node_modules/@astrojs/vue/client.js",
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/endpoint/node.js",
       "deps": [],
       "plugins": [
         {
+<<<<<<< HEAD
           "name": "vite:resolve (+alias)",
           "resolveId": 3
         }
@@ -113,6 +672,14 @@
         {
           "name": "vite:resolve (+alias)",
           "resolveId": 2
+=======
+          "name": "vite:resolve",
+          "resolveId": 3
+        },
+        {
+          "name": "astro:head-metadata",
+          "resolveId": 3
+>>>>>>> a703cc2039bec3c4f8a7e76c903e3a5f7a583b5f
         }
       ],
       "virtual": true,
@@ -122,12 +689,12 @@
       "distSize": 0
     },
     {
-      "id": "C:/Users/frika/OneDrive/Документы/GitHub/salo-ai-cms/node_modules/react/jsx-runtime.js",
+      "id": "/workspaces/salo-ai-cms/node_modules/axobject-query/lib/index.js",
       "deps": [],
       "plugins": [
         {
           "name": "vite:resolve (+alias)",
-          "resolveId": 2
+          "resolveId": 1
         }
       ],
       "virtual": true,
@@ -137,20 +704,4617 @@
       "distSize": 0
     },
     {
-      "id": "C:/Users/frika/OneDrive/Документы/GitHub/salo-ai-cms/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "id": "/workspaces/salo-ai-cms/node_modules/cssesc/cssesc.js",
       "deps": [],
       "plugins": [
         {
           "name": "vite:resolve (+alias)",
-          "resolveId": 4
+          "resolveId": 0
         }
       ],
       "virtual": true,
       "totalTime": 0,
       "invokeCount": 0,
       "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/react-dom/cjs/react-dom.production.min.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 23
+        },
+        {
+          "name": "commonjs",
+          "transform": 348
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 371,
+      "invokeCount": 1,
+      "sourceSize": 131685,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/react-dom/client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 20
+        },
+        {
+          "name": "vite:define",
+          "transform": 11
+        },
+        {
+          "name": "commonjs",
+          "transform": 712
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 743,
+      "invokeCount": 1,
+      "sourceSize": 619,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/react-dom/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 39
+        },
+        {
+          "name": "vite:define",
+          "transform": 15
+        },
+        {
+          "name": "commonjs",
+          "transform": 567
+        },
+        {
+          "name": "vite:resolve (+alias)",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 621,
+      "invokeCount": 1,
+      "sourceSize": 1363,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/react/cjs/react.production.min.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 15
+        },
+        {
+          "name": "commonjs",
+          "transform": 23
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 38,
+      "invokeCount": 1,
+      "sourceSize": 6930,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/react/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 20
+        },
+        {
+          "name": "vite:define",
+          "transform": 11
+        },
+        {
+          "name": "commonjs",
+          "transform": 59
+        },
+        {
+          "name": "vite:resolve (+alias)",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 90,
+      "invokeCount": 1,
+      "sourceSize": 190,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/react/jsx-dev-runtime.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:resolve (+alias)",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/react/jsx-runtime.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:resolve (+alias)",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/scheduler/cjs/scheduler.production.min.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 30
+        },
+        {
+          "name": "commonjs",
+          "transform": 7
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 37,
+      "invokeCount": 1,
+      "sourceSize": 4235,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/scheduler/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 149
+        },
+        {
+          "name": "vite:define",
+          "transform": 2
+        },
+        {
+          "name": "commonjs",
+          "transform": 43
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 194,
+      "invokeCount": 1,
+      "sourceSize": 198,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/tailwindcss/index.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:resolve (+alias)",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 20
+        },
+        {
+          "name": "vite:define",
+          "transform": 9
+        },
+        {
+          "name": "vite:resolve (+alias)",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 29,
+      "invokeCount": 1,
+      "sourceSize": 580,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/components/draggable.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 28
+        },
+        {
+          "name": "vite:vue",
+          "transform": 7
+        },
+        {
+          "name": "vite:vue",
+          "transform": 7
+        },
+        {
+          "name": "vite:vue",
+          "transform": 7
+        },
+        {
+          "name": "astro:tsconfig-alias",
+          "resolveId": 0
+        },
+        {
+          "name": "astro:tsconfig-alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 49,
+      "invokeCount": 1,
+      "sourceSize": 414,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/components/navigation.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 20
+        },
+        {
+          "name": "vite:vue",
+          "transform": 12
+        },
+        {
+          "name": "vite:vue",
+          "transform": 12
+        },
+        {
+          "name": "vite:vue",
+          "transform": 12
+        },
+        {
+          "name": "astro:tsconfig-alias",
+          "resolveId": 0
+        },
+        {
+          "name": "astro:tsconfig-alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 56,
+      "invokeCount": 1,
+      "sourceSize": 640,
       "distSize": 0
     }
   ],
-  "ssrModules": []
+  "ssrModules": [
+    {
+      "id": "\u0000@astro-page:node_modules/astro/dist/assets/endpoint/node@_@js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-build-pages",
+          "transform": 127
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 127,
+      "invokeCount": 1,
+      "sourceSize": 161,
+      "distSize": 161
+    },
+    {
+      "id": "\u0000@astro-page:src/pages/account@_@astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-build-pages",
+          "transform": 1
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 137,
+      "distSize": 137
+    },
+    {
+      "id": "\u0000@astro-page:src/pages/first-page@_@astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-build-pages",
+          "transform": 1
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 140,
+      "distSize": 140
+    },
+    {
+      "id": "\u0000@astro-page:src/pages/index@_@astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-build-pages",
+          "transform": 0
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 135,
+      "distSize": 135
+    },
+    {
+      "id": "\u0000@astro-page:src/pages/oauth@_@ts",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-build-pages",
+          "transform": 1
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 132,
+      "distSize": 132
+    },
+    {
+      "id": "\u0000@astro-page:src/pages/signin@_@astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-build-pages",
+          "transform": 1
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 136,
+      "distSize": 136
+    },
+    {
+      "id": "\u0000@astro-page:src/pages/signup@_@astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-build-pages",
+          "transform": 1
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-build-pages",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 136,
+      "distSize": 136
+    },
+    {
+      "id": "\u0000@astro-renderers",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-renderers",
+          "transform": 0
+        },
+        {
+          "name": "@astro/plugin-renderers",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-renderers",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-renderers",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-renderers",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-renderers",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-renderers",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-renderers",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-renderers",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-renderers",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 803,
+      "distSize": 803
+    },
+    {
+      "id": "\u0000@astrojs-manifest",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-build-manifest",
+          "transform": 0
+        },
+        {
+          "name": "@astro/plugin-build-manifest",
+          "resolveId": 0
+        },
+        {
+          "name": "@astro/plugin-build-manifest",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 270,
+      "distSize": 270
+    },
+    {
+      "id": "\u0000@astrojs-ssr-virtual-entry",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astrojs/vite-plugin-astro-ssr-server",
+          "transform": 13
+        },
+        {
+          "name": "@astrojs/vite-plugin-astro-ssr-server",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 13,
+      "invokeCount": 1,
+      "sourceSize": 1764,
+      "distSize": 1764
+    },
+    {
+      "id": "\u0000astro-internal:middleware",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astro/plugin-middleware",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 191,
+      "distSize": 191
+    },
+    {
+      "id": "\u0000astro:assets",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "astro:assets",
+          "transform": 0
+        },
+        {
+          "name": "astro:assets",
+          "resolveId": 0
+        },
+        {
+          "name": "astro:assets",
+          "resolveId": 0
+        },
+        {
+          "name": "astro:assets",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 1219,
+      "distSize": 1219
+    },
+    {
+      "id": "\u0000astro:react:opts",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astrojs/react:opts",
+          "transform": 0
+        },
+        {
+          "name": "@astrojs/react:opts",
+          "resolveId": 0
+        },
+        {
+          "name": "@astrojs/react:opts",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 62,
+      "distSize": 62
+    },
+    {
+      "id": "\u0000astro:ssr-manifest",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astrojs/vite-plugin-astro-ssr-manifest",
+          "transform": 0
+        },
+        {
+          "name": "@astrojs/vite-plugin-astro-ssr-manifest",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 115,
+      "distSize": 115
+    },
+    {
+      "id": "\u0000plugin-vue:export-helper",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 155,
+      "distSize": 155
+    },
+    {
+      "id": "\u0000virtual:@astrojs/vue/app",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "@astrojs/vue/virtual-app",
+          "transform": 0
+        },
+        {
+          "name": "@astrojs/vue/virtual-app",
+          "resolveId": 0
+        },
+        {
+          "name": "@astrojs/vue/virtual-app",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 30,
+      "distSize": 30
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/node/dist/log-listening-on.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 92
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 92,
+      "invokeCount": 1,
+      "sourceSize": 1903,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/node/dist/middleware.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 82
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 82,
+      "invokeCount": 1,
+      "sourceSize": 705,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/node/dist/serve-app.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 84
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 84,
+      "invokeCount": 1,
+      "sourceSize": 1198,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/node/dist/serve-static.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 96
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 96,
+      "invokeCount": 1,
+      "sourceSize": 2959,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/node/dist/server.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 60
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 60,
+      "invokeCount": 1,
+      "sourceSize": 898,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/node/dist/standalone.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 82
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 82,
+      "invokeCount": 1,
+      "sourceSize": 2270,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/react/context.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 40
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 40,
+      "invokeCount": 1,
+      "sourceSize": 518,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/react/server.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 27
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 27,
+      "invokeCount": 1,
+      "sourceSize": 6814,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/react/static-html.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 41
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 41,
+      "invokeCount": 1,
+      "sourceSize": 884,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/react/vnode-children.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 74
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 74,
+      "invokeCount": 1,
+      "sourceSize": 995,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/vue/server.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 35
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 35,
+      "invokeCount": 1,
+      "sourceSize": 1001,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/@astrojs/vue/static-html.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 38
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 38,
+      "invokeCount": 1,
+      "sourceSize": 858,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/components/Image.astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 588
+        },
+        {
+          "name": "astro:build",
+          "transform": 122
+        },
+        {
+          "name": "astro:vite-plugin-env",
+          "transform": 216
+        },
+        {
+          "name": "vite:define",
+          "transform": 194
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1120,
+      "invokeCount": 1,
+      "sourceSize": 1354,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/components/Picture.astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 648
+        },
+        {
+          "name": "astro:build",
+          "transform": 58
+        },
+        {
+          "name": "astro:vite-plugin-env",
+          "transform": 214
+        },
+        {
+          "name": "vite:define",
+          "transform": 171
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1091,
+      "invokeCount": 1,
+      "sourceSize": 3524,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/actions/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 78
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 78,
+      "invokeCount": 1,
+      "sourceSize": 613,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/consts.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 676
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 676,
+      "invokeCount": 1,
+      "sourceSize": 679,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/endpoint/node.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 60
+        },
+        {
+          "name": "astro:vite-plugin-env",
+          "transform": 18
+        },
+        {
+          "name": "vite:define",
+          "transform": 19
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 97,
+      "invokeCount": 1,
+      "sourceSize": 3432,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 652
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 652,
+      "invokeCount": 1,
+      "sourceSize": 252,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/internal.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 69
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 69,
+      "invokeCount": 1,
+      "sourceSize": 3926,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/services/service.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 688
+        },
+        {
+          "name": "astro:vite-plugin-env",
+          "transform": 203
+        },
+        {
+          "name": "vite:define",
+          "transform": 153
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1044,
+      "invokeCount": 1,
+      "sourceSize": 6979,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/services/sharp.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 688
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "astro:assets",
+          "resolveId": 1061
+        }
+      ],
+      "virtual": false,
+      "totalTime": 688,
+      "invokeCount": 1,
+      "sourceSize": 1928,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/types.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 38,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/etag.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 71
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 71,
+      "invokeCount": 1,
+      "sourceSize": 740,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/getAssetsPrefix.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 91
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 91,
+      "invokeCount": 1,
+      "sourceSize": 363,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/imageKind.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 689
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 689,
+      "invokeCount": 1,
+      "sourceSize": 328,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/remotePattern.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 70
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 70,
+      "invokeCount": 1,
+      "sourceSize": 2119,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/remoteProbe.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 688
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 688,
+      "invokeCount": 1,
+      "sourceSize": 953,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/detector.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 44
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 44,
+      "invokeCount": 1,
+      "sourceSize": 531,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/lookup.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 170
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 170,
+      "invokeCount": 1,
+      "sourceSize": 677,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/bmp.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5,
+      "invokeCount": 1,
+      "sourceSize": 277,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/cur.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5,
+      "invokeCount": 1,
+      "sourceSize": 437,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/dds.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 6
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 6,
+      "invokeCount": 1,
+      "sourceSize": 243,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/gif.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 6
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 6,
+      "invokeCount": 1,
+      "sourceSize": 292,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/heif.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 6
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 6,
+      "invokeCount": 1,
+      "sourceSize": 1567,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/icns.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 7
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 7,
+      "invokeCount": 1,
+      "sourceSize": 1920,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/ico.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 8
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 8,
+      "invokeCount": 1,
+      "sourceSize": 1189,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 44
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 44,
+      "invokeCount": 1,
+      "sourceSize": 1013,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/j2c.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 9
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 9,
+      "invokeCount": 1,
+      "sourceSize": 344,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/jp2.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 9
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 9,
+      "invokeCount": 1,
+      "sourceSize": 714,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/jpg.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 9
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 9,
+      "invokeCount": 1,
+      "sourceSize": 2952,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/ktx.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 10
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 10,
+      "invokeCount": 1,
+      "sourceSize": 470,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/png.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 11
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 11,
+      "invokeCount": 1,
+      "sourceSize": 871,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/pnm.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 11
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 11,
+      "invokeCount": 1,
+      "sourceSize": 1568,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/psd.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 12
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 12,
+      "invokeCount": 1,
+      "sourceSize": 257,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/svg.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 13
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 13,
+      "invokeCount": 1,
+      "sourceSize": 2259,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/tga.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 13
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 13,
+      "invokeCount": 1,
+      "sourceSize": 297,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/tiff.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 14
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 14,
+      "invokeCount": 1,
+      "sourceSize": 1811,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 21
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 21,
+      "invokeCount": 1,
+      "sourceSize": 2140,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/assets/utils/vendor/image-size/types/webp.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 15
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 15,
+      "invokeCount": 1,
+      "sourceSize": 1560,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/app/common.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 81
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 81,
+      "invokeCount": 1,
+      "sourceSize": 1028,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/app/createOutgoingHttpHeaders.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 83
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 83,
+      "invokeCount": 1,
+      "sourceSize": 466,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/app/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 59
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 59,
+      "invokeCount": 1,
+      "sourceSize": 13711,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/app/middlewares.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 78
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 78,
+      "invokeCount": 1,
+      "sourceSize": 891,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/app/node.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 81
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 81,
+      "invokeCount": 1,
+      "sourceSize": 5458,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/app/pipeline.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 75
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 75,
+      "invokeCount": 1,
+      "sourceSize": 4269,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/base-pipeline.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 85
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 85,
+      "invokeCount": 1,
+      "sourceSize": 1671,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/build/util.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 65
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 65,
+      "invokeCount": 1,
+      "sourceSize": 1359,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/constants.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 34
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 34,
+      "invokeCount": 1,
+      "sourceSize": 844,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/cookies/cookies.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 95
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 95,
+      "invokeCount": 1,
+      "sourceSize": 5791,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/cookies/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 35
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 35,
+      "invokeCount": 1,
+      "sourceSize": 260,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/cookies/response.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 99
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 99,
+      "invokeCount": 1,
+      "sourceSize": 804,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/errors/errors-data.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 66
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 66,
+      "invokeCount": 1,
+      "sourceSize": 33703,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/errors/errors.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 36
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 36,
+      "invokeCount": 1,
+      "sourceSize": 2679,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/errors/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 36
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 36,
+      "invokeCount": 1,
+      "sourceSize": 540,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/errors/printer.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 73
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 73,
+      "invokeCount": 1,
+      "sourceSize": 921,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/errors/userError.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 39
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 39,
+      "invokeCount": 1,
+      "sourceSize": 89,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/errors/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 97
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 97,
+      "invokeCount": 1,
+      "sourceSize": 2080,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/errors/zod-error-map.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 96
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 96,
+      "invokeCount": 1,
+      "sourceSize": 2798,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/logger/console.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 48
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 48,
+      "invokeCount": 1,
+      "sourceSize": 416,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/logger/core.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 37
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 37,
+      "invokeCount": 1,
+      "sourceSize": 4230,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/middleware/callMiddleware.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 97
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 97,
+      "invokeCount": 1,
+      "sourceSize": 1605,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/middleware/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 39
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 39,
+      "invokeCount": 1,
+      "sourceSize": 3592,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/middleware/sequence.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 80
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 80,
+      "invokeCount": 1,
+      "sourceSize": 1469,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/path.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 42
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 42,
+      "invokeCount": 1,
+      "sourceSize": 48,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/polyfill.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 82
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 82,
+      "invokeCount": 1,
+      "sourceSize": 340,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/redirects/component.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 86
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 86,
+      "invokeCount": 1,
+      "sourceSize": 339,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/redirects/helpers.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 65
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 65,
+      "invokeCount": 1,
+      "sourceSize": 195,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/redirects/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 66
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 66,
+      "invokeCount": 1,
+      "sourceSize": 385,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/redirects/render.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 96
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 96,
+      "invokeCount": 1,
+      "sourceSize": 1101,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/redirects/validate.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 33
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 33,
+      "invokeCount": 1,
+      "sourceSize": 321,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/render-context.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 43
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 43,
+      "invokeCount": 1,
+      "sourceSize": 15141,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/render/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 93
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 93,
+      "invokeCount": 1,
+      "sourceSize": 264,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/render/paginate.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 107
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 107,
+      "invokeCount": 1,
+      "sourceSize": 2224,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/render/params-and-props.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 686
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 686,
+      "invokeCount": 1,
+      "sourceSize": 2546,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/render/renderer.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 687
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 687,
+      "invokeCount": 1,
+      "sourceSize": 278,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/render/route-cache.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 574
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 574,
+      "invokeCount": 1,
+      "sourceSize": 2523,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/render/slots.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 577
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 577,
+      "invokeCount": 1,
+      "sourceSize": 2552,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/render/ssr-element.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 45
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 45,
+      "invokeCount": 1,
+      "sourceSize": 2035,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/routing/astro-designed-error-pages.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 47
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 47,
+      "invokeCount": 1,
+      "sourceSize": 982,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/routing/manifest/generator.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 581
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 581,
+      "invokeCount": 1,
+      "sourceSize": 1165,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/routing/manifest/serialization.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 86
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 86,
+      "invokeCount": 1,
+      "sourceSize": 1301,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/routing/match.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 77
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 77,
+      "invokeCount": 1,
+      "sourceSize": 457,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/routing/params.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 98
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 98,
+      "invokeCount": 1,
+      "sourceSize": 533,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/core/routing/validation.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 99
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 99,
+      "invokeCount": 1,
+      "sourceSize": 2508,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/env/runtime.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 89
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 89,
+      "invokeCount": 1,
+      "sourceSize": 539,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/env/setup.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 82
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 82,
+      "invokeCount": 1,
+      "sourceSize": 66,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/env/validators.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 579
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 579,
+      "invokeCount": 1,
+      "sourceSize": 2801,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/i18n/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 33
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 33,
+      "invokeCount": 1,
+      "sourceSize": 7804,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/i18n/middleware.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 76
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 76,
+      "invokeCount": 1,
+      "sourceSize": 3597,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/i18n/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 78
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 78,
+      "invokeCount": 1,
+      "sourceSize": 5163,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/jsx-runtime/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 37
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 37,
+      "invokeCount": 1,
+      "sourceSize": 2286,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/jsx/server.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 36
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 36,
+      "invokeCount": 1,
+      "sourceSize": 1744,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/compiler/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 438
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 438,
+      "invokeCount": 1,
+      "sourceSize": 624,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/astro-component.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 78
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 78,
+      "invokeCount": 1,
+      "sourceSize": 1164,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/astro-global.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 73
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 73,
+      "invokeCount": 1,
+      "sourceSize": 1161,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/astro-island.prebuilt-dev.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 86
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 86,
+      "invokeCount": 1,
+      "sourceSize": 3665,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/astro-island.prebuilt.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 87
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 87,
+      "invokeCount": 1,
+      "sourceSize": 3557,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/endpoint.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 97
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 97,
+      "invokeCount": 1,
+      "sourceSize": 1759,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/escape.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 73
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 73,
+      "invokeCount": 1,
+      "sourceSize": 2110,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/hydration.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 73
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 73,
+      "invokeCount": 1,
+      "sourceSize": 4066,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 73
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 73,
+      "invokeCount": 1,
+      "sourceSize": 3035,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/jsx.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 38
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 38,
+      "invokeCount": 1,
+      "sourceSize": 5329,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/any.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 453
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 453,
+      "invokeCount": 1,
+      "sourceSize": 1752,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/astro/factory.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 470
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 470,
+      "invokeCount": 1,
+      "sourceSize": 492,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/astro/head-and-content.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 499
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 499,
+      "invokeCount": 1,
+      "sourceSize": 332,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/astro/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 473
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 473,
+      "invokeCount": 1,
+      "sourceSize": 603,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/astro/instance.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 489
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 489,
+      "invokeCount": 1,
+      "sourceSize": 2451,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/astro/render-template.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 499
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 499,
+      "invokeCount": 1,
+      "sourceSize": 1615,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/astro/render.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 486
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 486,
+      "invokeCount": 1,
+      "sourceSize": 6938,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/common.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 479
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 479,
+      "invokeCount": 1,
+      "sourceSize": 3017,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/component.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 73
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 73,
+      "invokeCount": 1,
+      "sourceSize": 15630,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/dom.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 528
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 528,
+      "invokeCount": 1,
+      "sourceSize": 995,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/head.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 555
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 555,
+      "invokeCount": 1,
+      "sourceSize": 1412,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 72
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 72,
+      "invokeCount": 1,
+      "sourceSize": 1048,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/instruction.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 74
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 74,
+      "invokeCount": 1,
+      "sourceSize": 383,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/page.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 599
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 599,
+      "invokeCount": 1,
+      "sourceSize": 2087,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/script.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 573
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 573,
+      "invokeCount": 1,
+      "sourceSize": 548,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/slot.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 560
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 560,
+      "invokeCount": 1,
+      "sourceSize": 2269,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/tags.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 585
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 585,
+      "invokeCount": 1,
+      "sourceSize": 703,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/render/util.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 566
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 566,
+      "invokeCount": 1,
+      "sourceSize": 6071,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/scripts.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 472
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 472,
+      "invokeCount": 1,
+      "sourceSize": 1374,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/serialize.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 74
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 74,
+      "invokeCount": 1,
+      "sourceSize": 2918,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/shorthash.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 75
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 75,
+      "invokeCount": 1,
+      "sourceSize": 2004,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/transition.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 72
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 72,
+      "invokeCount": 1,
+      "sourceSize": 6381,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/runtime/server/util.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 463
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 463,
+      "invokeCount": 1,
+      "sourceSize": 435,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/template/4xx.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 89
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 89,
+      "invokeCount": 1,
+      "sourceSize": 5142,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/transitions/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 576
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 5
+        }
+      ],
+      "virtual": false,
+      "totalTime": 576,
+      "invokeCount": 1,
+      "sourceSize": 1537,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/node_modules/astro/dist/virtual-modules/middleware.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 37
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 61
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 37,
+      "invokeCount": 1,
+      "sourceSize": 117,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/components/Card.astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 55
+        },
+        {
+          "name": "astro:build",
+          "transform": 80
+        },
+        {
+          "name": "astro:tsconfig-alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 135,
+      "invokeCount": 1,
+      "sourceSize": 1127,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/components/Card.astro?astro&type=style&index=0&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "astro:build",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 915,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/components/draggable.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 72
+        },
+        {
+          "name": "vite:vue",
+          "transform": 63
+        },
+        {
+          "name": "vite:vue",
+          "transform": 63
+        },
+        {
+          "name": "astro:tsconfig-alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 198,
+      "invokeCount": 1,
+      "sourceSize": 414,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/components/food.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 96
+        },
+        {
+          "name": "vite:vue",
+          "transform": 39
+        },
+        {
+          "name": "vite:vue",
+          "transform": 39
+        },
+        {
+          "name": "astro:tsconfig-alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 174,
+      "invokeCount": 1,
+      "sourceSize": 209,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/components/navigation.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 99
+        },
+        {
+          "name": "vite:vue",
+          "transform": 36
+        },
+        {
+          "name": "vite:vue",
+          "transform": 36
+        },
+        {
+          "name": "astro:tsconfig-alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 171,
+      "invokeCount": 1,
+      "sourceSize": 640,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/layouts/Layout.astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 437
+        },
+        {
+          "name": "astro:build",
+          "transform": 61
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "astro:tsconfig-alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 498,
+      "invokeCount": 1,
+      "sourceSize": 989,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/layouts/Layout.astro?astro&type=style&index=0&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "astro:build",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 485,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/middleware.ts",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 37
+        },
+        {
+          "name": "vite:esbuild",
+          "transform": 208
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 245,
+      "invokeCount": 1,
+      "sourceSize": 322,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/pages/account.astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 42
+        },
+        {
+          "name": "astro:build",
+          "transform": 770
+        },
+        {
+          "name": "astro:scanner",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 812,
+      "invokeCount": 1,
+      "sourceSize": 889,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/pages/first-page.astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 41
+        },
+        {
+          "name": "astro:build",
+          "transform": 1172
+        },
+        {
+          "name": "astro:scanner",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1213,
+      "invokeCount": 1,
+      "sourceSize": 4637,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/pages/first-page.astro?astro&type=style&index=0&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "astro:build",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 1236,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/pages/index.astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 38
+        },
+        {
+          "name": "astro:build",
+          "transform": 768
+        },
+        {
+          "name": "astro:scanner",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 806,
+      "invokeCount": 1,
+      "sourceSize": 127,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/pages/oauth.ts",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 40
+        },
+        {
+          "name": "vite:esbuild",
+          "transform": 186
+        },
+        {
+          "name": "astro:scanner",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 226,
+      "invokeCount": 1,
+      "sourceSize": 1105,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/pages/signin.astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 39
+        },
+        {
+          "name": "astro:build",
+          "transform": 769
+        },
+        {
+          "name": "astro:scanner",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 808,
+      "invokeCount": 1,
+      "sourceSize": 4639,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/pages/signup.astro",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 39
+        },
+        {
+          "name": "astro:build",
+          "transform": 768
+        },
+        {
+          "name": "astro:scanner",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 807,
+      "invokeCount": 1,
+      "sourceSize": 5386,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/server/appwrite.ts",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 688
+        },
+        {
+          "name": "vite:esbuild",
+          "transform": 389
+        },
+        {
+          "name": "astro:vite-plugin-env",
+          "transform": 41
+        },
+        {
+          "name": "vite:define",
+          "transform": 62
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1180,
+      "invokeCount": 1,
+      "sourceSize": 1157,
+      "distSize": 0
+    },
+    {
+      "id": "/workspaces/salo-ai-cms/src/styles/globals.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 28
+        },
+        {
+          "name": "vite:css",
+          "transform": 271
+        },
+        {
+          "name": "astro:tsconfig-alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 299,
+      "invokeCount": 1,
+      "sourceSize": 6566,
+      "distSize": 0
+    }
+  ]
 }
