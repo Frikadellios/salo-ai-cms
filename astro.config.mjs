@@ -11,13 +11,14 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://example.com',
   vite: {
     plugins: [Inspect({
       build: true,
       outputDir: '.vite-inspect'
     }), tailwindcss()]
   },
-  output: 'hybrid',
+  output: 'server',
   adapter: node({
     mode: 'standalone'
   }),
